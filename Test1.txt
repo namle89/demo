@@ -1,0 +1,777 @@
+BÀI TẬP MICROSOFT WORD  
+Chương 1: Làm quen với Microsoft Word  
+Bài 1: Tìm hiể u về Microsoft  
+a) Khởi động Microsoft Word: Quan sát, di chuyển qua các tab trên thanh Ribbon -
+> kích vào Office Button và chọn Word Options -> để thiết lập một số thông số 
+như: đơn vị  đo, hiển thị khung, đặt mặc định lưu tài liệu ở định dạng Word 97-
+2003, ....  
+b) Tạo một tệp mới, không cần soạn thảo nội dung hãy  
+o Ghi văn bản với tên “Vidu_1”: theo định dạng Word 97-2003 o Sử dụng 
+hộp thoại “Save As” lưu file này sang định dạng Word 2007 (docx)  
+c) Quan sát và thử thay đổi các cách hiển thị, di chuyển tài liệu  
+Chương 2: Soạn thảo và trình bày thông tin  
+Bài 2: Luyện tập xử lý font chữ 
+Microsoft Word là một chương trình nằm trong bộ phần mềm văn phòng MS Office 
+của Microsoft xử lý văn bản, ngoài  các chức năng giúp người sử dụng gõ nhanh và đúng 
+một văn bản, nó còn cho phép chúng ta dễ dàng chèn các ký tự đặc biệt vào văn bản như 
+“ © ® Cũ n El ^ y té ■&. °® ^  ^ ^ iß “, làm cho văn bản phong phú hơn.  
+Người soạn thảo có thể nhập văn bản ở dạng chữ t hường hoặc CHỮ IN để rồi sau đó 
+có thể  
+đổi sang một kiểu chữ thích hợp. Các lệnh thường dùng trong văn bản có thể trình bày 
+nhanh  
+nhờ biểu tượng B (Bold) để tạo chữ đậm, 1 {Italic)  để tạo chữ nghiêng , U (Underline)  để 
+tạo ra chữ gạch dưới, hay kết hợp cả b a. 
+Ngoài ra còn có các lệnh khác cầu kỳ hơn phải vào menu để trình bày như: Words 
+Only  chỉ gạch dưới cho từng chữ một . Double  để gạch dưới hai nét . Dotted để gach 
+.dưới. .bằng, dấu _chấm, Strik ethrough  tạo ra chữ gạch giữa , các lệnh Superscript và Subcrip t 
+giúp chúng ta tạo được một biểu thức đơn giản có dạng như a 1X2 + b 1Y2 = 0, từ cách gõ 
+chữ thường có thể đổi sang dạng CHỮ IN hoặc CHỮ CÓ KICH THƯỚC NHỎ HƠN 
+nhờ vào lệnh ALL CAPS hoặc SMALL CAPS. Khoảng cách giữa các ký tự có thể thay 
+đổi dễ dàng nhờ dùng các lệnh trong Spacing:  
+Normal  Trung tâm tin học  
+Expanded  Trung tâm tin h ọ c  
+Condensed  Trung tâm tin học  
+Các font chữ tiếng Việt thường được dùng trong văn bản:  
+Times New Roman, Normal, Italic, Bold, Bold Italic  Arial, Normal, Italic, Bold, Bold Italic Verdana, Normal, 
+Italic, Bold, Bold Italic Tahoma, Normal, Italic, Bold, Bold 
+Italic  
+Courier New,Normal,Italic, Bold, Bold Italic  
+Bài 3: Tìm kiếm và thay thế  
+a) Tìm kiếm các từ “Microsoft” trong đoạn văn bản đã soạn ở Bài 1  
+b) Thay thế từ “Microsoft” bằng “MS”  
+Bài 4: Thực hành định dạng đoạn văn bản Paragraph  
+Nhập và định dạng các đoạn văn bản bài thơ như sau:  
+Quê hương là chùm khế ngọt 
+Cho con trèo hái mỗi ngày  
+Quê hương là con diều biết 
+Tuổi thơ con thả trên đồng  
+Quê hương l ả cầu tre nh ỏ 
+Mẹ về nón lá nghiêng che  
+Quê h ương m ỗi người chỉ một  
+Như là ch ỉ một mẹ thôi 
+Bài 5: Dùng chức năng Bullets and Numbering  
+Dùng chức năng Bullets and Numbering để trình bày các đoạn văn bản sau:  
+I. Các thao tác căn bản  
+1.  Khởi động Microsoft Word và các thành phần của màn hình  
+2. Cách sử dụn g các thanh công cụ (ToolBars)  
+3. Cách sử dụng các thực đơn dọc, ngang (Menu)  
+II. Định dạng văn bản  
+1. Định dạng ký tự bằng Format/ Font  
+2. Định dạng đoạn văn bản bằng Format/ Paragraph  
+Một đoạn văn (paragraph) gồm một hoặc nhiều dòng được kết thúc bằng phím Enter.  
+a)  Các dạng trình bày đoạn văn 
+♦♦♦ First line  
+❖ Hanging Indent  
+❖ Left Indent  
+b) Định dạng đoạn văn đơn giản  
+c) Định dạng đoạn văn phức tạp  
+- Mục Alignment  
+- Mục Indentation  
+- Mục Special  
+3. Điền số hoặc các ký tự đặc biệt ở đầu đoạn bằng Format/ Bullets and Numbering  
+1. Dùng các biể u tượng trên thanh formatting  2. Dùng menu lệnh 
+• Lớp Bulleted  
+• Lớp Numbering  
+Bài 6: Dùng chức năng Bullets and Numbering kết hợp với Border and Shading  
+Dùng chức năng Bullets and Numbering và với Border and Shading để soạn các đoạn 
+sau: 
+Các bài hát thiếu nhi ha y nhất thế kỷ 22  
+ 
+Tục ngữ Việt Nam  
+♦♦♦ Học đi đôi với hành  
+❖ Học đâu, biết đó  
+❖  Gần mực thì đen, gần đèn thì sáng  
+❖ Giàu đổi bạn, sang đổi vợ  
+CA DAO CHỌN LỌC  
+^ Ai ơi chớ l ấy học trò ^ Dài 
+lưng tốn vải ăn no lại nằm ^ Hay 
+nằm thời có võng đào ^ Dài lưng 
+thời có áo chào nhà vua ^ Hay ăn 
+thời có gạo kho ^ Việc gì mà 
+chẳng ăn no lại nằm
+ Bài 7: Sử dụng Border and Shading để định dạng trang văn bản  
+ Sử dụng chức năng Border and Sh ading để định dạng cho trang văn bản có đường viền 
+và chữ nền (MICROSOFT OFFICE) như sau:  
+ Lưu ý: Định dạng trang tương tự như định dạng một đoạn văn bản
+Bài 8: Sử d ụng style soạn thảo tài liệu tin học văn phòng như sau:  
+a) Yêu cầu bìa của tài liệu gồm những thông tin sau:  
+BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC XUẤT SẮC TÀI LIỆU THAM 
+KHẢO TIN HỌC VĂN PHÒNG Hà Nội, năm 2011  
+b)  Soạn thảo nội dung với yêu cầu: Những phần trong  bài để “...” hãy gõ 2 -3 dòng 
+nội dung để minh họa.  
+PHẦN I: HỆ ĐIỀU HÀNH WINDOWS  
+1. Các khái niệm cơ bản về máy tính  
+1.1. Máy tính  
+1.1.1 Khái niệm  
+1.1.2 Các loại máy tính cá nhân thông dụng  
+1.2. Phần mềm của máy tính  
+1.2.1 Phần mềm hệ thống  
+1.2.2 Phần mềm văn phòng  1.2.3 Phần mềm ứng dụng  
+1.3. Phần cứng  của máy tính  
+2. Windows Explorer  
+2.1. Khởi động Windows Explorer  
+2.2. Tạo một thư mục con mới  
+2.3. Lựa chọn tệp và thư mục  
+3. Bài tập ứng dụng  
+ 
+PHẦN II : MICROSOFT WORD  
+1. Các thao tác căn bản  
+1.1. Khởi động Microsoft Word và các thành phần của màn hình  
+1.2. Cách sử dụng các thanh công cụ (ToolBars)  
+2. Định dạng văn bản  
+2.1. Định dạng ký tự bằng Format/ Font  
+2.2. Định dạng đoạn văn bản bằng Format/Paragraph  
+Bài 9: Sử dụng style soạn thảo tài liệu bồi dưỡng  
+Yêu cầu:  
+- Bài gồm có 3 phần (bìa, mục lục, nội dung);  
+- Soạn thảo nội dung với yêu cầu: Những phần tr ong bài để “...” hãy gõ 2-3 dòng nội  
+dung để minh họa; Soạn thảo xong hãy tạo mục lục tự động cho tài liệu.  
+LÃNH ĐẠO VÀ QUẢN LÝ SỰ THAY ĐỔI Ở TRƯỜNG PHỔ THÔNG  
+1. LÃNH ĐẠO VÀ QUẢN LÝ SỰ THAY ĐỔI  
+Thay đổi là quá trình vận động do ảnh hưởng, tác động qua lại của  sự vật, hiện 
+tượng, của các yếu tố bên trong và bên ngoài; thay đổi là thuộc tính chung của bất 
+kì sự vật hiện tượng nào  
+1.1. Thay đổi là gì?  
+1.1.1.  Thay đổi (Change)  
+1.1.2.  Thay đổi bao gồm cả sự biến đổi về số lượng, chất lượng và cơ cấu  
+1.1.3.  Thay đổi được hiểu ở các mức độ kh ác nhau  
+1.2.  Sự cần thiết phải lãnh đạo và quản lý sự thay đổi ở trường phổ thông  
+a) Yêu cầu thay đổi  
+b) Mong muốn thay đổi  
+c) Đón nhận sự thay đổi  
+1.3. Lãnh đạo và quản lý sự thay đổi trường phổ thông  i. Thay đổi từ bên trong  
+ii. Thay đổi từ bên ngoài  
+iii.  Phân loại sự thay đổi  
+2. HOẠCH  ĐỊNH SỰ THAY ĐỔI Ở TRƯỜNG PHỔ THÔNG  
+Dự báo có nhiệm vụ tìm ra hướng hoạt động và phát triển của nhà trường trên cơ 
+sở nắm vững đường lối phát triển kinh tế - xã hội - giáo dục của Đảng và Nhà nước, 
+của địa phương, hiểu biết thị Dự báo (số lượng, chất lượn g, cơ cấu) học sinh.  
+1) Dự báo sự thay đổi  
+2) Xác định các mục tiêu thay đổi  
+3) Xác định nhu cầu thay đổi  
+3. TỔ CHỨC  THỰC  HIỆN SỰ THAY ĐỔI Ở TRƯỜNG PHỔ THÔNG  
+1.  Các bước thực hiện  
+2. Lựa chọn, sử dụng cán bộ phù hợp thực hiện sự thay đổi  • • ' •  o  «1 «1 • • • %! Bài 10: Sử  dụng style soạn thảo tiểu luận gồm có: bìa, mục lục, nội dung:  
+a) Bìa như sau:  ______________   
+ 
+b) Nội dung như sau ( những chỗ “...” xu ống dòng và gõ 2 -3 dòng nội dung để minh 
+họa):  
+PHẦN I: MỞ ĐẦU  
+1.1. Nhà trường là gì? (...)  
+1.2. Quản lý nhà trường là gì? (...)  BỘ GIÁO DỤC VÀ ĐÀO TẠO Học viện Quản lý giáo dục  
+ 1.3. Giới thiệu về Trường Đại học Xuất Sắc (...)  
+PHẦN II: NỘI DUNG  
+2.1. Thực trạng  
+2.1.1.  Thực trạng về xây dựng & thực thi chế định giáo dục và đào tạo (. ..) 
+2.1.2.  Thực trạng về bộ máy tổ chức và đội ngũ nhân lực (...)  
+2.1.3.  Thực trạng về quản lý cơ sở vật chất và thiết bị  
+2.2. Giải pháp  
+2.2.1.  Về xây dựng & thực thi chế định giáo dục và đào tạo  
+2.2.2.  Về bộ máy tổ chức và đội ngũ nhân lực  
+2.2.3.  Về quản lý cơ sở vật chất và thiết bị  
+PHẦN III: KẾT LUẬN  
+Hơn 50 năm xây dựng và phát triển Trường Đại học Xuất Sắc đã phấn đấu thực hiện tốt 
+nhiệm vụ mà Đảng và Nhà nước giao phó, là một trường đại học hàng đầu ở Việt Nam 
+về đào tạo các ngành nghề, cung cấp lực lượng nhân công chất lượng cao cho xã hội ...  
+Bài 11: Sử dụng style soạn thảo cuốn những điều cân biêt  
+Yêu cầu: Lấy dữ liệu từ cổng thông tin đào tạo của nhà trường Hoàn thiện cuốn “Những 
+điều sinh viên chính quy cần biết” có các mục từ 1 -4 như dưới đây:  
+1. Giới thiệu về trường  
+2. Hướng dẫn quy trình đ ào tạo  
+2.1. Chương 1: Những quy định chung  
+2.2. Chương 2: Tổ chức đào tạo  
+2.3. Chương 3: Kiểm tra và thi học phần  
+2.4. Chương 4: Xét và công nhận tốt nghiệp  
+2.4.1.  Thực tập cuối khóa  
+2.4.2.  Chấm đồ án, khóa luận  
+2.4.3.  Điều kiện tốt nghiệp  
+2.4.4.  Cấp bằng tốt nghiệp  
+3. Khung chương trình cử nhân ngoại ngữ (định hướng nghiệp vụ phiên dịch)  
+4. Khung chương trình cử nhân (định hướng nghiệp vụ giảng dạy)  
+- Nhập và định dạng đầy đủ dữ liệu theo các mục yêu cầu trên.  
+- Sử dụng style để soạn thảo, tạo mục lục tự động. Trình bày đẹp, tạo bìa cuốn sách.  
+ Bộ GIAO D uc U4 ĐA O T30 TRƯ ỞNG Đ ẠI HỘC XŨÁT SAC  
+ 
+NHỮNG ĐI ỀU SINH VIÊN CHÍNH QUY C ẦN BI ÉT  
+   
+ 
+Bài 13: Sử dụng Tab để soạn thảo  văn bản sau:  
+BỘ GIÁO DỤC VÀ : ĐÀO TẠO  CỘNG HOÀ XÃ HỘI CHỦ NG HĨA VIỆT NAM  
+TRƯỜNG ĐH XUẤT SẮC  Độc lập - Tir do - Hạnh phúc  
+ĐƠN XIN BẢO LƯU KẾT QUẢ HỌC TẬP  
+Kính gửi:  - Thầy Hiệu trưởng  
+Đồng kính gửi:  - Ban chủ nhiệm Khoa CNTT  
+- Phòng Đào tạo  
+Tên em là :  ................................ ................................ ................................ ................................ .............   
+Sinh ngày : ................................ ..............  Nơi sinh  
+Tại lớp :  ................................ ..................  Khoa  
+Hệ đào tạo :  ................................ ................................ ................................ ................................ ..........   
+Vì lý do : ................................ ................................ ................................ ................................ ...............   Bài 12: Sử dụng Tab để soạn thảo văn bản sau:  
+BỒ GIÁO DUC VÀ ĐÀO TAO  CÔNG HOÀ XÃ HÔI CHỦ NGHĨA VIỆT NAM  
+TRƯỜNG ĐU XUẤT SẮC  Độc lập - TỊT do - Hạnh phúc  
+GIẤY CHỨNG NHẢN  
+• 
+HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC XUẤT SẮC  
+ CHỨNG NHẢN  
+Anh/ Chi :  ................................ .........    
+Sinh ngày :  ................................ .......  ..... Nơi sinh :  ................................ ................................ ..............   
+Mã số sinh viên :  ..............................    
+Đang hoc hoc kỳ/ hoc phần :  ............    
+Tai lớp :  ................................ ...........    ......Khoa :  ................................ ................................ ...................   
+Hê đào tao:  ................................ .......   
+Giấy này dùng để:  ............................    
+(Giấy này có giá trị đến ngày  ..........    ....tháng  .............. năm .............  .) 
+ Hà Nội, ngày  .........  tháng.  .........  năm ...........   
+TRƯỞNG KHOA  TL. HIỆU TRƯỞNG  Em xin được bảo lưu kết quả học tập từ ................................ ..........  đến ................................ ..  
+Em cam đoan việc bảo lưu kết quả học tập và tạm ngừng học tập là hoàn toàn chính đáng, và gửi 
+kèm theo đơn này các giấy tờ sau đây để minh chứng:  
+Em cam kết sẽ thực hiện đầy đủ các quy định của Nhà trường về chế độ bảo lưu và nhập học đúng 
+thời hạn cho phép.  
+Kính đề nghị được giải quyết.  
+Em xin chân thành cảm ơn.  
+Hà Nội, ngày  .........  tháng.  ......... năm ...........   
+NGƯỜI LÀM ĐƠN  
+Ý KIẾN CỦA BCN KHOA  Ý KIẾN CỦA PHÒNG ĐÀO TẠO  
+ 
+ 
+Bài 14: Sử  dụng Tab để soạn thảo văn bản sau:  
+BỒ GIÁO DỤC VÀ ĐÀO TẠO                            CÔNG HOÀ XÃ HÔI CHỦ NG HĨA VIỆT NAM 
+TRƯỜNG ĐH XUẤT SẮC  Độc lập - Tự do - Hạnh phúc  
+ĐƠN XIN HỌC NGÀNH ĐẠI HỌC  
+Kính gửi:  - Thầy Hiệu trưởng  
+Đồng kính gửi:  - Ban chủ nhiệm Khoa CNTT - Phòng Đào tạo  
+Tên em là :  ................................ ................................ ................................ ................................ .............   
+Mã số sinh viên:  ................................ ................................ ................................ ................................ ...  
+Hiện nay là sinh viên lớp : ................................  Khoa:  ................................ ...... Khóa:  .........................   
+Thi tuyển sinh vào Trường Đại học Xuất Sắc bằng khối  ................................ ................................ ......  
+Điểm trung bình chung của năm học vừa qua :  ................................ ................................ ....................   
+Sau khi đã nghiên cứu kỹ thông báo của Nhà trường về việc học cùng lúc h ai chương trình, em xin đăng ký học chương trình thứ hai, ngành :  ................................ ................................ ............................   
+Em xin cam đoan  chấp  hành đầy đủ mọi quy định của Bộ  Giáo dục  & Đào tạo và của Nhà  
+trường về việc học cùng lúc hai chương trình và xin hoàn toàn  tự chịu trách nhiệm về quyết định  
+của mình.  
+Em xin trân trọng cảm ơn.  
+Hà Nội, ngày tháng năm 200...  
+Người làm đơn (Ký 
+và viết rõ họ tên)  
+Ý kiến của BCN khoa  Ý kiến của của phòng Đào tạo  
+(Nơi đang học chương trình thứ nhất)"hướng dẫn"  
+' -16 • ¿yi7'  
+ 
+b) Sử dụng chức năng Insert comment và Track changes  
+- Tạo 2 comment cho 2 mục tương ứng 1,2 như hình vẽ  
+- Thay cụm “của màn hình” thành “chính của Word”  
+- Thêm Menubars sau T oolBars. Thay “Vietkey” thành “bộ gõ tiếng Việt”  
+- Sửa mục 2.3 thành “Tạo mục lục tự động”  
+- Thêm “văn bản” vào sau “Các bước trộn”  
+- Thay “3” thành “2” và “2” thành “3” tiết như hình dưới 
+PHẢN I: MICROSOFT WORD  
+(23 tiết) 
+1. ICác thao tác cán bảnl 2 tiêt 
+1.1. Khởi độn g Microsoft Word và cảc thành phản của mãn hinh chinh của Word  
+1.2. Cảch sử dụng cảc thanh công cụ ( ToolBar s Menu bars)  
+1.3. Cảch khởi động Vietkevbó gõ tiêng Việt , hưởng dẫn  cách đảnh tiếng Việt  
+1.14. Bài tập ửng dụng  3-2_tiểt  
+2. ịCảc công cụ phụ trọi 
+2.1. Tun kiêm và thay  thê 
+2.2. Cài đật chể độ AutoCorrect, AutoText  
+2.3. Tao nhanh mót vãn bản th eo mău T empiat eTao mue lue tư đỏng  
+3.  Trộn ván bản  2- 3_tiêt  
+3.1. Tạo tệp dừ liệu nguồn  
+3.2. Tạo văn bản chinh  
+3.3. Cảc bước trộn văn bán : Sử dụng thực đơn và thanh công cụ Mail mergeBài 15: Sử dụng chức năng Insert comment và Track changes để soạn đoạn văn bả n như hình sau:  
+a) Soạn đoạn văn bản như sau:  
+PHẦN I: MICROSOFT WORD   
+(23 tiết)   
+1. Các thao tác căn bản  2 tiết 
+1.1. Khởi động Microsoft Word và các thành phần của màn hình   
+1.2. Cách sử dụng các thanh công cụ ( ToolBars)   
+1.3. Cách khởi động Vietkey , cách đánh tiếng Việt   
+1.4. Bài tập ứng dụng  3 tiết  
+2. Các công cụ phụ trợ   
+2.1. Tìm kiếm và thay thế   
+2.2. Cài đặt chế độ AutoCorrect, AutoText   
+2.3. Tạo nhanh một văn bản theo mẫu Template   
+3. Trộn văn bản  2 tiết  
+3.1. Tạo tệp dữ liệu nguồn   
+3.2. Tạo văn bản chính   
+3.3. Các bước trộn: Sử dụng thực đơn và thanh công cụ Mail merge   N 
+Chương 3: Trình bày thôn g tin trong cột và bảng  
+Bài 16: Sử dụng Columns và Drop Cap để soạn thảo đoạn văn bản như sau:
+ 
+am quốc sơn hà  
+Nam quốc sơn hà Nam đế 
+cư, 
+Tiệt nhiên định phận tại 
+Thiên thư. Như hà nghịch 
+lỗ lai xâm phạm, Nhữ đẳng hành 
+khan thủ bại hư.  
+ông núi nước Nam  
+Sông núi nước Nam 
+vua Nam ở,  
+Rành rành định phận 
+tại sách Trời.  
+Cớ sao lũ giặc sang xâm phạm, 
+Chúng bay sẽ bị đánh tơi bời.  Phiên âm Hán - Việt:  
+am quốc sơn hà  
+Nam quốc sơn hà 
+Nam đế cư  
+Hoàng Thiên dĩ định tại Thiên thư 
+Như hà Bắc lỗ lai xâm phạm Bạch 
+nhận Thiên hành phá trúc dư Bản 
+dịch thơ:  
+Sông núi nước Nam Sông núi nước 
+Nam, vua Nam ngự Sách Trời định 
+phận rõ non sông Cớ sao giặc Bắc 
+sang xâm phạm Chúng bay sẽ bị 
+đánh tơi bời.
+ 
+rận Bạch Đằng năm 938 là một trận đánh giữa quân dân Việt Nam - thời đó gọi là Tĩnh Hải quân 
+và chưa có quốc hiệu chính thức - do Ngô Quyền  lãnh đạo với quân Nam Hán  trên sông Bạch 
+Đằng . Kết quả, quân dân Việt Nam giành thắng lợi. Đây là một trận đánh quan trọng trong lích sử 
+Việt Nam . Nó đánh dấu cho việc chấm dứt hơn 1000 nă m Bắc thuộc  của Việt Nam. Trận Bạch 
+Đằng năm 938 có ý nghĩa quan trọng đối với Việt Nam vì nó đã giúp chấm dứt 1000 năm Bắc 
+thuộc  trong lích sử Việt Nam , mở ra một thời kỳ độc lập tự chủ cho Việt Nam. Chiến thắng Bạch 
+Đằng có thể coi là trận chung kết toàn  thắng của dân tộc Việt.  
+Đinh nghĩa các môn hoe
+ 
+Toán học  
+Đây là môn học duy nhất 
+không có sự bổ ích. Các 
+bạn sẽ được học 1 + 1 = 2, 
+điều mà một vài năm sau 
+người ta lại nói lại 1 + 1 = 
+10 và nói cho bạn biết hệ 
+nhị phân là gì. Người ta 
+cũng dạy bạn vi ph ân, tích 
+phân và nhiều thứ quan 
+trọng khác nhưng nói 
+chung, bạn vẫn phải dùng 
+đến máy tính bỏ túi khi đi 
+chợ. 
+Vật lý  
+Môn học nghiên cứu sự 
+rụng của táo và các loại 
+quả khác. Bạn cũng có 
+được học cách tính giờ 
+tàu chạy và khi nào hai 
+con tàu gặp nhau nếu chạy trên  
+cùng một ... đường ray. 
+Người học vật lý xong 
+thường ít đi trồng táo 
+hoặc đi tàu hoả.  
+Hoá học  
+Môn học phải ghi nhớ 
+những câu trả lời đúng và 
+những bài thí nghiệm. Đổ 
+một lọ này vào lọ kia, lắc 
+hoặc khuấy, nhiều lúc 
+phải đun lên, rồi cuối 
+cùng đổ tấ t cả ra vườn, đó 
+là thí nghiệm.  
+Sinh học  
+Môn học nghiên cứu ruồi 
+giấm và một số vật nuôi 
+trong nhà khác. Tuy nhiên 
+nếu ta hỏi một người lớn 
+rằng "làm sao để có em bé" thể nào ta cũng được  
+câu trả lời "có con cò 
+mang em bé đến và đặt lên 
+cửa sổ cho các bà m ẹ". 
+Địa lý  
+Môn này dạy bạn cách 
+xem bản đồ và bạn phải 
+chỉ ra châu Mỹ trên bản đồ 
+thế giới. Đây có lẽ là môn 
+mới mẻ nhất vì trước khi 
+Christopher Columbus 
+chưa tìm ra châu Mỹ, chắc 
+chưa ai phải học môn này 
+cả. 
+Lịch sử  
+Các thầy giáo sẽ bắt bạn 
+nhớ xem ai đã lật đổ một 
+ông vua nào đó.S N Bài 17: Xử lý dữ liệu trong bảng biểu  
+ 
+ 
+Bài 18: Soạn mẫ u KQHT và tính điểm trung bình cộng vào những ô ? sau đây:  
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM TRƯỜNG 
+ĐH XUẤT SẮC  Độc lập - Tự do - Hạnh phúc  
+Số: 468/QĐ -ĐHXS  Hà Nội, ngày 29 tháng 06 năm 2010  
+KÉT QUẢ HỌC TẬP  
+HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC  XUẤT SẮC CHỨNG NHẬN  
+ 
+Trưởng khoa  T/L Hiệu trư ởngHỌC KỲ 1  Mã môn  Tên môn học  Băt 
+buộc  TCBB theo 
+HK ĐVHT  Số tiết  
+ENG 101  Kỹ năng tiếng I  x  20 400 
+VIE 101 Những nguyên lý cơ bản của 
+chủ nghĩa Mác -Lênin   x 7.5 112 
+VIE 107 Tin học đại cương   x 4 60 HỌC KỲ 2  ENG 102 Kỹ năng tiếng II  x  20 400 
+VIE 101  Những nguyên lý cơ bản của 
+chủ nghĩa Mác -Lênin   x 7.5 112 
+VIE 107  Tin học đại cương   x 4 60 
+ECO 302  Kinh tế vĩ mô  x  5 75 
+FIN 301  Quản trị tài chính  x  5 75 
+STT Thời gian  
+Nội dung  Tuần làm việc thứ  
+T1 T2 T3 T4 T5 T6 T7 T8 T9 
+1 Xây dựng đề cương nghiên cứu           
+2 Thu thập tài liệu nghiên cứu           
+3 Lựa chọn phương pháp nghiên cứu           
+4 Xây dựng phiếu hỏi           
+Họ và tên : Lê Diễm Đào Mộng Mơ  
+Ngày tháng năm sinh : 12/01/1988  Hệ đào tạo: Chính quy  
+Nơi sinh : Hà Nội  Ngành  đào tạo: CNTT  
+Môn hoc  CC Điểm 1  Điểm 2  Điểm 3  TBC 
+1. Công nghệ phần mềm  7.3 8 9.1 8.5 ? 
+2. Lập trình hướng đối tượng  8.5 8 8.4 6.3 ? 
+3. Thuật toán và lập trình  8.8 8 8.7 7.2 ? 
+4. Hệ thống thông minh  8.5 8 8 9.5 ? 
+Kết quả thi cuối khoá  Mạng: 8  Bài tập lớn: 7.5  Công nghệ phần mềm: 8.5  
+Kết quả khoá luận TN Điểm trung bình toàn khoá: 7.71  xếp loại : Khá  Bài tập thực hành Microsoft W ord 2003  
+Trang 17/26  
+  
+Dùng hàm tính tổng SUM của Word để điền giá trị vào các ô có dấu ?  
+b) Bảng điểm tổng kết lớp THCS  
+ 
+Dùng hàm tính tổng Average của Word để điền giá trị vào các ô có dấu ? 
+Sắp xếp dữ liệu trong bảng trên theo thứ tự ưu tiên Tên, Họ đệmBài 19: Bảng biểu và công thức, sắp xếp  
+a) Giả sử ta có bảng số liệu sau:  
+TT Họ tên  Lương  Phụ cấp  Thực linh  
+1 Nguyễn Nam  507000  150000  7 
+2 Tran Khánh  600000  150000  7 
+3 Minh Hoa  630000  200000  7 
+Tổng cộng:  7 7 7 
+TT Ho đêm  Tên ĐTB HK1  ĐTB HK2  ĐTB cả năm  
+1 Nguyễn Quang  Anh 5.5 8.5 ? 
+2 Trần Mạnh  Hòa 7.G 3.5 ? 
+3 Nguyễn Đức  Bình  6.5 6.5 ? 
+4 Nguyễn Xuân  Thắng  9.G 7.5 ? 
+5 Nguyễn Thí  Mơ 1G 4.G ? 
+Điểm trung b ình cả lớp  ? ? ? Bài tập thực hành Microsoft W ord 2003  
+Trang 18/26  
+ tham gia Sẽ t ham g ia Đang   
+Bài 20: Soạn thảo mẫu phiếu thu thập thông tin như sau (tổng hợp kỹ năng):  
+BỘ GIÁO  DỤC VÀ ĐÀO  TẠO DỰ ÁN PHÁT  TRIÈN  GIÁO VIÊN TIỂU HỌC 
+PHIẾU THU TH ẬP THÔNG TIN GIÁO VIÊN TIÈU H ỌC 
+Mã s ố giáo viên:  
+Xin Ông/ Bà vui lòng cung cấp những thông tin và ghi các câu trả lời bằng việc đánh dấu (x) vào vào 
+những ô hoặc điền chữ vào những chỗ thích hợp. Xin chân thành cảm ơn Ông/Bà.  
+I. SƠ YẾU  
+1. Họ tên giáo viên :  ................................ ..................... 2. Giới tính: Nam □ Nữ □  
+3. Năm s inh :  ................................ ................................ .4. Dân tộc : Kinh  ũ Dân tộc khác □  
+5. Ông/ Bà tham gia công tác ngành giáo dục từ năm :  ................................ ................................ ........  
+6. Ông/ Bà tham gia dạy tiểu học từ năm  ................................ ................................ ............................  
+7. Ông/ Bà thuộc loại giáo viên: Biên chế □ Hợp đồng  □ 
+8. Trường Tiểu học đang công tác:  ................................ ................................ ................................ ....... 
+9. ................................ ..............................  Xã/Phường :
+ ................................ ................................ .........  Quận/Huyện:  ................................ .............................  
+10. Trường ông/bà dạy thuộc khu vực địa bàn nào dưới đây?  
+Vùng núi, Nông thôn □  Thị xã, Thị trấn ũ  Thành phố □  Vùng sâu vùng xa □
+ 
+ 
+II. THÔNG TIN CHUYÊN MÔN CỦA GIÁO VIÊN  
+1. Ông/ Bà đang và sẽ tham gia c ác khoá đào tạo nào?  
+a) Nâng trình độ để đạt chuẩn THSP  
+b) Nâng trình độ từ THSP lên CĐSP  
+c) Liên thông từ trình độ THSP lên CĐSP
+ 
+ 2. Ông/ Bà đã hoàn thành các môđun bồi dưỡng nào của Dự án?  
+Tên mô đun  Kết quả bồi dưỡng  Sẽ tham gia  
+Yếu Trung 
+bình Khá Giỏi 
+MBD
+1 Dạy lớp 1 theo chương trình tiểu học mới       
+MBD
+2 Dạy lớp 2 theo chương trình tiểu học mới       
+MBD
+3 Dạy lớp 3 theo chương trình tiểu học mới       Bài tập thực hành Microsoft W ord 2003  
+Trang 19/26  
+ Chương 4: Đồ họa, ký tự đặc biệt  
+ 
+ 
+Bài 22: Thiết kế bài hướng dẫn các thành phần chính của MS Word như sau:  Bài 21: Bài tập thực hành sử dụng WordArt và ClipArt  
+ 
+ Bài tập thực hành Microsoft W ord 2003  
+Trang 20/26  
+  
+Bài 23: Vẽ sơ đồ sau  
+ 
+ 
+ 
+ Bài tâp thuc hành Microsoft Word 2003  
+Trang 21/26  
+ Bai 24: Ve cac hinh sau  
+ADVERTISEMENT  
+ 
+ 
+ 
+fi TRADING  1 FOR LEASE  1 FOR SALE  
+BUSINESS FORMS   ROOM FOR RENT   1985 BMW 3181  
+MFT.CO.      
+112 Ng Thi Minh Khal St. 
+Dist.3, Ho Chi Minh City Fax: 
+(848) 8225133   
+Add: 327 Le Van Sy St. Ward  
+2, Tan Binh Dist. (2km from 
+the Airport)   2doors, dark green, in good 
+condition  
+Price: 9.400 USD 
+Tel: 8225851   • Well -equipped room. 
+Include air -con., water   X 
+  heater, IDD, phone, fax   
+Y Computer forms with 1 to 5 
+ply NCR     Pis. Contact:  
+carbonles s 
+Business forms     Mr. F .Nonnenmacher  
+printing      
+ 
+ F2 \ 
+ 
+ “ V J 
+  
+ 1 Bài tập thực hành Microsoft Word 2003  
+Trang 22/26  
+ Bài 25: Vẽ các sơ đồ sau  
+ 
+Chương 5: Hoàn tất tài liệu  
+Bài 26: Dùng chức năng  Header and Footer và Page numbers để định dạng cho văn bản như hình 
+sau: 
+Header: Bài tập thực hành Microsoft Word 2003  
+Đánh số trang: Trang số/ Tổng số  
+Nội dung: không bắt buộc phải như hình minh họa  
+Bài tập thực h ành Microsoft Word 2003  
+BÁI T ẬP MICROSOFT  WORD  
+Bài 1 : Luy ện tập xừ lý font chữ 
+Microsoft Word là một chuơng trình năm ưong bộ phán mêm văn phòng MS Office của 
+Microsoft xù lý văn bãn s ngoài các chức năng giúp người sừ dụng gõ nhanh vả đúng một văn 
+bản, nó còn cho phép chúng ta dè dảng chèn các k ý tự đặc biệt vảo văn bản như “ © ® U4 SE 
+TSÍÍÍÌ,'Ĩ:Í'©!1>%Í“,  làm cho vãn bản phong phú hcrn.  
+Người soạn thảo có thẻ nhập ván băn ò dạng chữ thường hoặc CHỬ IN đế rồi sau đó có thè 
+đỏi sang một kiêu chữ thích hợp. Các lệnh thướng dùng trong văn bán có thè trình bảy nhanh 
+nhớ biẻu tượng (Bold) đè tạo chừ đậm, ỉ (Italic ) đẻ tạo chữ nghiêng, ĩỉ (Underline)  đê tạo ra chữ 
+gach dưói . hay kẽt ìiơy cà ba . 
+Ngoài ra còn có các lệnh khác cầu kv hơn phãi vảo menu đế trình biv như: Words Only  chi 
+each dưói cho tửng chủ  mot. Double  đẽ gạch dưoi hai néĩ . Dotted đẽ gaçh dưới bặng, dậụ chậm, 
+Strik ethrough  tạo ra chữ gạch giữa, các lệnh Sup"sclipt và Subcript giúp chúng ta tạo được một biêu 
+thức đom giãn có dạng như aiX’ +■ bl Y' = 0: từ cách gõ chữ thướng có thê đổi sang dạ ng CHỮ 
+ Bài tập thực hành Microsoft Word 2003  
+Trang 23/26  
+ IN hoặc CHỬ co KICH THƯỚC NHO HƠN nhờ vảo lệnh ALL CAPS hoặc SMALL CAPS. 
+Khoảng cách giữa các ký tự có thè thay đòi dè dàng nhớ dùng các lệnh, trong  
+Bài 2: Th ực hành đ ịnh d ạng đo ạn vãn b ản Paragraph  
+Nhập  và định dạng các đoạn văn bàn bài thơ như sau : 
+Què hương li chùm khè 
+ngọt Cho con trèo hái moi 
+ngiv Quê hưcmg là đường 
+đi học Con ve rợp bóng cò 
+bay. 
+Ouê hương là con diêu biêt 
+Tuôi thơ con thà trên đông 
+Qué hương ìà con đò nhỏ Em 
+đém khua nước ven sông.  
+Quê hương là câu tre nhỏ Mẹ 
+vê nón ¡ú nghiêng che Quê 
+hương là đêm trăng tỏ  
+Trang 1 18 
+Bài 27: Tạo mục lục tự động  
+Tạo mục lục tự động cho các bài tập về Style tại Chương 2.Bài tập thực hành Microsoft Word 2003  
+Trang 24/26  
+ 1. 
+2. 
+3. 
+4. 
+5. 
+6.  
+Chương 6: Trộn văn bản (Mail Merge)  
+Bài 28: Dùng chức năng trộn văn bản để in giấy báo nhập học cho sinh viên  
+ 
+ 
+BỘ GIÁO  DỤC  VÀ  ĐÀO  
+TẠO  TRƯỜNG  ĐẠI  HỌC  
+XUẤT  SẮC 
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - 
+Hạnh phúc  
+Hà Nội, ngày 10 tháng 8 năm 2011
+ 
+GIẤY BÁO NHẬP HỌC TRƯỜNG ĐẠI HỌC 
+XUẤT SẮC THÔNG BÁO
+ 
+ 
+ 
+Đạt điểm trúng tuyển vào Trường. Mời anh/chị đến làm thủ tục nhập học  theo lịch sau 
+đây: 
+Khi đến Trường, anh/chị cần mang theo 01 túi hồ sơ nhập học gồm:  
+Giấy báo nhập học này Thẻ dự thi đại học  
+Hồ sơ trúng tuyển theo mẫu của Bộ Giáo dục và Đào tạo Giấy chứng nhận tốt 
+nghiệp tạm thời Bản sao công chứng học bạ THPT Tất cả s inh viên đều phải 
+đóng học phí  
+a. Học phí cả năm  1.500.000 đ  
+b. Tiền khám sức khoẻ nhập học:  40.000 đ/thí s inh. 
+c. Phí phát hành thẻ s inh viên:  25.000 đ/ thí s inh. 
+Ghi chú: Các giấy tờ ở mục 4, 5, 6 Nhà trường kiểm tra bản chính và chỉ thu bản sao 
+công chứng.  
+HIỆU TRƯỞNG  
+ ________________________________ _______________________  Đã ký  ________  Hoten  GT NS SBD KV Toan Ly Hoa Tong Nganh  
+Trần Ngọc Anh  Nữ 30/09/92  A26 2NT 8.00 6.75 8.50 24 404 - Tài chính  
+Phạm Ngọc Bích  Nữ 28/10/92  A152 1 7.00 6.75 4.50 19 401 - Kế toán  
+NguyễnLinh Chi  Nữ 06/04/91  A181 1 6.00 7.75 6.50 21.5 104 - Khoa học máy tính  
+Nguyễn Chiến  Nam 12/08/92  A205 2NT 7.00 7.00 5.25 20 404 - Tài chính  
+Nguyễn Chính  Nam 27/09/91  A213 2NT 6.50 7.00 7.00 21 400 - Quản trí Kinh doanh  
+Nguyễn Chung  Nữ 04/11/91  A216 2 6.00 4.50 6.50 18 404 - Tài chính  
+Nguyễn Chưởng  Nam 22/07/92  A222 2NT 7.50 7.75 6.50 22 404 - Tài chính  
+Đoàn Cao Cường  Nam 01/01/93  A243 2 7.50 5.50 5.75 19.5 104 - Khoa học máy tính  
+Đào Văn Dính  Nam 06/04/92  A258 2 6.75 3.75 3.75 15.5 401 - Kế toán  
+Đỗ Thuỳ Dương  Nữ 15/03/92  A330 2NT 6.00 7.25 6.25 20.5 400 - Quản trí Kinh doanh  
+Hoàng Thí  Giang  Nữ 11/05/91  A389 1 7.25 8.75 9.00 25 104 - Khoa học máy tính  
+Lê Hồng Hảo  Nữ 08/05/88  A473 2NT 6.00 7.50 7.00 21.5 104 - Khoa học máy tính  
+b) Soạn mẫu như sau và thực hiện trộn Giấy báo nhập học tự động cho các học sinh trên.  
+Số báo danh:  Họ và tên:  
+Khu vực:  
+Kết quả: Toán:  điểm 
+Tổng cộng:  điểm Sinh ngày: 
+Ngành:  
+Lý: điểm Hóa:  điểm Bài tập thực hành Microsoft Word 2003  
+Trang 25/26  
+ Bài 29: Dùng chức năng trộn văn bản để in giấy quyết định lương  
+a) Soạn danh sách cán bộ được nâng lương và lưu vào file có tên “DSNangLuong”  
+ 
+b) Soạn mẫu  như sau và thực hiện trộn QĐ nâng lương tự động cho các cán bộ trên.  
+BỘ GIÁO  DỤC  VÀ  ĐÀO  TẠO CỘNG HÒA XÃ HỘI CHỦ N GHĨA VIỆT NAM  
+TRƯỜNG ĐH XUẤT SẮC ’ Độc lập - Tự do - Hạnh phúc ’  
+Số : 1234/TCCB -QĐNL  Hà Nội, ngày 31 tháng 12 năm 2011  
+QUYẾT ĐỊNH CỦA HIỆU TRƯ ỞNG  
+V/v nâng bậc lương cho cán bộ năm 2011  
+HIỆU TRƯỞNG  
+- Căn cứ Nghị định số 25/CP ngày 23/05/1993 của Chính phủ ban hành tạm thời chế độ tiền 
+lương của Công chức, viên chức hành chính, sự nghiệp;  
+- Căn Thông tư số 04/1999/TT -TCCP ngày 20/03/1999 của Ban Tổ ch ức ^ Cán bộ Chính phủ, 
+hướng dẫn thực hiện Nghị định số 95/1998/NĐ -CP của Chính phủ về tuyển dụng, sử dụng 
+và quản lý công chức;  
+- Theo đề nghị của Ông/Bà Trưởng phòng TCCB.  
+QUYẾT ĐỊNH  
+Điều 1 : Nâng bậc lương cho Ông (Bà):  
+Đơn vị :  
+Ngạch :  Mã số:  
+Từ hệ số :  
+Lên hệ số:  kể từ ngày  
+Điều 2 : Ông (Bà) có tên ở điều 1 chịu trách nhiệm thi hành quyết định này.  
+HIỆU TRƯỞNG  
+Nơi nhận:  
+- Như điều 2.  
+- Lưu VT, TCCB  
+Bài 30: Dùng chức năng trộn văn bản để in giấy mời  
+a) Soạn danh sách lớp như sau và lưu vào file có tên “DSLop”  STT Ho tên  Tên ngạch  Mã ngạch  Từ hê số  Từ ngày  Lên HS  Tên đơn vi  
+1 Đào Thí Mai  Chuyên viên  1003 3.99 01/10/11  4.32 Phòng Hành chính  
+2 Ngô Văn Nhu  Chuyên viên chính  1002 3.99 11/12/11  4.32 Phòng Hành chính  
+3 Nguyễn Hương  Chuyên viên cao cấp  1001 5.08 14/10/11  5.42 Phòng QLCL  
+4 Quốc Khánh  Chuyên viên  1003 4.98 21/09/11  4.98 Phòng Khoa học  
+5 Phạm Thành  Chuyên viên chính  1002 5.08 12/11/11  5.42 Phòng Quản trí  
+6 Trần Thuỷ  Kỹ sư  6033 3.33 11/10/11  3.33 Phòng Tài chính  
+7 Nguyễn Hương  Chuyên viên  1003 3.66 11/10/11  3.99 Phòng Thiết bí  
+8 Lê Dung  Chuyên viên  1003 4.65 12/10/11  4.98 Phòng Kinh doanh  Bài tập thực hành Microsoft Word 2003  
+Trang 26/26  
+  
+ 
+Môt số meo văt trong MS Word  
+• • • o 
+Khi đang thao tác Word bạn thường gặp nhiều lỗi về font, mất nhiều thời gian để copy tài liệu từ trên 
+mạng về, lộ thông tin lưu trong file, định dạng “nhảy lung tung”... Dưới đây là những tình huống t hường STT Họ và tên  Nơi công tác  Điện thoại  Email  
+1 Mai Hoa  Trung cấp kinh tế tài chính  09326 572  dtnha.TY12@abc.com.vn  
+2 Lê Thu Hà  Cao đẳng Sư phạm  12537 493  hanhanabc12@abc. com.vn  
+3 Nguyễn Hà  Dự án Đại học II  09268266  ntnhanabc12@abc.com  .vn 
+4 Nguyễn Hà  Dự án Đại học II  09499962  ntynhiabc12@abc.com.vn  
+5 Vũ Thúy Hà  THPT Hồng Bàng  0904 5170  vthnhiabc12@abc.com.vn  
+6 Vũ Thu Hằng  THPT Hưng Yên  095 471 8  ktnuongabc12@abc.com.vn  
+7 Vũ Đình Hạnh  CTy CP CN Tin học  0975 2250  ntphongabc12@abc.com.vn  
+8 Phạm Lan  Phòng GD&ĐT Bình Giang  0933 5981  dvphucabc12@abc.com.vn  
+9 Đào Oanh  THCS Thanh Hà, Hà Nam  0906 0821  btphuongabc 12@abc.com.vn  
+10 Lương Oanh  THPT B, Phủ Lý, Hà Nam  0906 5868  dcphuongabc 12@abc.com  .vn 
+b) Soạn mẫu như sau và thực hiện trộn Giấy báo nhập học tự động cho các học sinh trên.  
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM TRƯỜNG 
+ĐẠI HỌC XUẤT SẮC Độc lập - Tự do - Hạnh phúc  
+ Hà Nội, ngày 10 tháng 8 năm 2011  
+GIẤY MỜI   
+Kính gửi : Ông/Bà ....   
+Ông/Bà: .... Số điện thoại: ... Email: ....   
+Nơi công tác:   
+Thừa lệnh Hiệu trưởng Trường Đại học Xuất Sắc   
+Kính mời Ông/bà ... đến dự họp  về vấn đề việc chuẩn bị tổ chức 1000 năm thành lập trường.  
+Thời gian : 26/03/2050   
+Địa điểm : Hội trường   
+Đề nghị ông/bà .... có mặt đầy đủ, đúng giờ và nhớ đóng góp cho nhà trường.  
+Nơi nhận : 
+- Như trên;  
+- Lưu VTHC.  TL.HIỆU  TRƯỞNG  TRƯỞNG  
+PHÒNG  TỔNG HỢP  
+(Ký tên, đóng dấu)  Bài tập thực hành Microsoft Word 2003  
+Trang 27/26  
+ gặp khi dùng Word mà người sử dụng nên tham khảo (Chi tiết xem tài liệu Mẹo vặt trong MS Word hoặc 
+người sử dụng tự tìm kiếm trên internet)  
+ 
+ON TẬP  
+Phần 1: L àm quen với MS Word  
+1.  Thanh công cụ và hệ thống menu; Các thao tác với tệp  1. Vẽ một đường thẳng  
+2. Máy tính có sẵn trong Word  
+3. Status Bar có gì cho bạn? Đánh chữ mà cứ mất dần các chữ bên phải thì tại làm sao  
+4. Tuỳ biến AutoText  
+5. Truy cập nhanh đến các văn bản thường sử dụng  
+6. Muốn mở văn bản được sử dụng lần cuối cùng thì làm sao cho nhanh  
+7. Sử dụng lệnh Paste Special  
+8. Sắp xếp lại các đoạn nhanh chóng  
+9. Xoá thông tin cá nhân  
+10
+. Định dạng nhanh chóng - Biểu tượng cái chổi sơn thì dùng làm sao?  
+11
+. Thêm nhiều lựa chọn hơn  
+12
+. Xuống dòng không tạo chỉ mục  
+13
+. Các Smart Tags  
+14
+. Tắt máy tính sau mấy phút là tuỳ ở bạn. Vậy làm thế nào?  
+15
+. Đổi chữ thường thành chữ hoa  và ngược lại  
+16
+. Muốn mở nhiều file cùng một thao tác  
+17
+. Quay trở lại điểm xử lý cuối cùng  
+18
+. Chuyển trang nhanh trong word  
+19
+. Chức năng zoom in/out với chuột có chức năng lật trang  
+20
+. Chữa lỗi cách trong word.  
+21
+. Copy văn bản và ảnh nhanh từ m ạng vào word.  
+22
+. Bảo mật thông tin trong Word.  
+23
+. Format chữ trong AutoCorrect  
+24
+. Phím tắt để gạch chân  
+25
+. Format toàn văn bản  
+26
+. Tạo lập template yêu thích  
+27
+. Phím Tắt trong MICROSOFT WORD  
+28
+. Hướng dẫn chuyển đổi font chữ Bài tập thực hành Microsoft Word 2003  
+Trang 28/26  
+ 2. Cách hiển thị, di chuyển tài liệu  
+Phần 2: Soạn thảo và trình bày thông tin  
+3. Soạn thảo văn bản, tìm kiếm, thay thế  
+4. Bullets, Numbering, Multilevel List, Style  
+5. Cách sử d ụ ng Tab; Track Changes và Comments  
+Phần 3: Trình bày thông tin trong cột và bảng  
+6. Chia cột dữ liệu  
+7.  Sử dụng Tab để trình bày dữ liệu dạng bảng đơn giản  
+8. Bảng: tạo, chỉnh sửa, định dạng, sắp xếp  
+Phần 4: Đồ họa và ký tự đặc biệt  
+9. Biết cách chèn, sửa ảnh, chữ nghệ thuật  
+10. Vẽ sơ đồ; Chèn ký tự đặc biệt  
+Phần 5: Hoàn tất tài liệu  
+11. Biết cách cách thiết lập Header, Footer; Tạo mục lục tự động  
+Phần 6: Mail Merge  
+12. Các bước và cách thực hiện trộn văn bản  
